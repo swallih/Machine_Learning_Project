@@ -3,9 +3,6 @@
 ## Project Overview
 This project predicts next-day rainfall using historical weather data and supervised machine learning techniques. The objective is to analyze key atmospheric variables such as humidity, temperature, pressure, and cloud cover to generate accurate daily rainfall forecasts that support effective planning and risk mitigation.
 
-Author: Muhammed Swalih  
-Role: Data Analyst / Machine Learning Enthusiast
-
 ## Objective
 To understand and predict rainfall using weather-related data through analytics-based and machine learning methods, and to identify the key features influencing daily rainfall events.
 
